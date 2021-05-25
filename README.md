@@ -2,7 +2,6 @@
 Calculate curvature in point cloud data
 
 
-K AND H ARE THE GAUSSIAN AND MEAN CURVATURES, RESPECTIVELY.
-Pmax AND Pmin ARE THE MINIMUM AND MAXIMUM CURVATURES AT EACH POINT, RESPECTIVELY.
-d1,d2 ARE THE MAIN DIRECTIONS
-
+K and H are Gaussian curvature and mean curvature, respectively.
+Pmax and Pmin are the minimum curvature and the maximum curvature at each point,respectively.
+D1 and D2 are the main directions.
